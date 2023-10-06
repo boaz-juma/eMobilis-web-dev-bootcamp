@@ -1,0 +1,118 @@
+body{
+    background-color: pink;
+}
+.mary{
+    color: blueviolet;
+    align-items: center;
+    text-align: center;
+
+    
+}
+.button{
+    height: 50;
+    width: 70px;
+}
+button.paul{
+    border-radius: 20%;
+    background-color: rgb(14, 154, 209);
+}
+button.jane{
+    border-radius: 20%;
+    background-color: rgb(73, 73, 133);
+}
+button.franciscah{
+    border-radius: 20%;
+    background-color: rgb(201, 11, 144);
+}
+button.edna{
+    border-radius: 20%;
+    background-color: rgb(18, 228, 98);
+}
+button:hover{
+    color: red;
+}
+.my-input{
+    
+    height: 30px;
+    border-radius: 10px;
+    border: unset;
+    background-color: #fbffd5;
+    color: #ff7a00;
+    padding-left: 25%;
+    padding-right: 25%;
+    
+
+}
+.my-btn{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: unset;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #29c200;
+}
+.top{
+height: 30vh;
+background-color: #ff7a00;
+display: flex;
+}
+.middle{
+height:30vh;
+background-color: aqua;
+display: flex;
+}
+.bottom{
+height: 30vh;
+background-color: blueviolet;
+display: flex;
+}
+.topright{
+    width: 50%;
+    height: 30vh;
+    background-color: chartreuse;
+
+}
+.topleft{
+    width: 50%;
+    height: 30vh;
+    background-color: brown;
+}
+.middle-left{
+    height: 30vh;
+    width: 33%;
+    background-color: rgb(135, 222, 150);
+
+}
+.middle-centre{
+    height: 30vh;
+    width: 34%;
+    background-color: rgb(218, 25, 99);
+
+}
+.middle-right{
+    height: 30vh;
+    width: 33%;
+    background-color: rgb(222, 184, 135);
+
+}
+.bottom_1{
+    height: 30vh;
+    width: 25%;
+    background-color: darkred;
+}
+.bottom_2{
+    height: 30vh;
+    width: 25%;
+    background-color: rgb(25, 165, 207);
+}
+.bottom_3{
+    height: 30vh;
+    width: 25%;
+    background-color: rgb(139, 138, 228);
+}
+.bottom_4{
+    height: 30vh;
+    width: 25%;
+    background-color: rgb(224, 45, 120);
+}
